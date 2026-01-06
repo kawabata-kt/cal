@@ -56,9 +56,6 @@ body {
   background-color: #ffcc80;
 }
 
-.btn:hover, .btn_op:hover {
-  background-color: #d5d5d5;
-}
 
 /* = ボタン */
 .btn-equal {
@@ -74,6 +71,4 @@ body {
   transition: background-color 0.2s;
 }
 
-.btn-equal:hover {
-  background-color: #43a047;
-}
+
